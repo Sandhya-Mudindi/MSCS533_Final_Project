@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationTracking", "LocationTracking.csproj", "{8ABCBE28-381A-4527-803C-0ED8977F2546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM32 = Debug|ARM32
+		Release|Any CPU = Release|Any CPU
+		Release|ARM32 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ABCBE28-381A-4527-803C-0ED8977F2546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABCBE28-381A-4527-803C-0ED8977F2546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABCBE28-381A-4527-803C-0ED8977F2546}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8ABCBE28-381A-4527-803C-0ED8977F2546}.Debug|ARM32.ActiveCfg = Debug|ARM32
+		{8ABCBE28-381A-4527-803C-0ED8977F2546}.Debug|ARM32.Build.0 = Debug|ARM32
+		{8ABCBE28-381A-4527-803C-0ED8977F2546}.Debug|ARM32.Deploy.0 = Debug|ARM32
+		{8ABCBE28-381A-4527-803C-0ED8977F2546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABCBE28-381A-4527-803C-0ED8977F2546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ABCBE28-381A-4527-803C-0ED8977F2546}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8ABCBE28-381A-4527-803C-0ED8977F2546}.Release|ARM32.ActiveCfg = Release|ARM32
+		{8ABCBE28-381A-4527-803C-0ED8977F2546}.Release|ARM32.Build.0 = Release|ARM32
+		{8ABCBE28-381A-4527-803C-0ED8977F2546}.Release|ARM32.Deploy.0 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46810783-7E51-4D84-97D2-B0A9EE10D307}
+	EndGlobalSection
+EndGlobal
